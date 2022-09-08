@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Learning world
 
-Description of the app ...
+this app made for individual learning 
 
 ## Demo App
 
