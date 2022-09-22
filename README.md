@@ -1,6 +1,6 @@
-# Learning world
+# Create basic website
 
-this app made for individual learning 
+Print Hello world
 
 ## Demo App
 
